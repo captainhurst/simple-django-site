@@ -7,3 +7,9 @@ sds/settings.pyc
 *.pyc
 
 *.pyc
+
+.DS_Store
+
+sds/.DS_Store
+
+sds/.DS_Store
